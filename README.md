@@ -1,0 +1,1 @@
+A simple login registration form which prompts when the input values are correct or wrong by comparing with existing values which are stored in local storage.
